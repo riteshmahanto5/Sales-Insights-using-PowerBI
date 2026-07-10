@@ -1,5 +1,5 @@
 
-# Sales Insights An Exercise by CodeBasics
+# Sales Insights
 
 <ol type = '1'>
    <li>
