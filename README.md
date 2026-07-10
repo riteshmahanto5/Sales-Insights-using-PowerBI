@@ -1,20 +1,6 @@
 
 # Sales Insights An Exercise by CodeBasics
 
-First off, this data analysis project has been taken by "Code Basics" which is a youtube channel. You can access it using below link
-
-<ol>
-  <li>
-      <a href="https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9"> Sales Insights Tutorial </a>
-  </li>
-</ol>
-
-
-
-We are going to cleanse and visualize our data by using Microsoft Power BI as an exercise. In addition to that,  as a database, we will be using MySQL to analyze our data.
-
-As a feedback for the youtube channel (codebasics), I have really enjoyed with the whole series which gave me a good insight to comprehend how data analysis works by using data science tools. So, this has been a good starting point to dive into data science.
-
 <ol type = '1'>
    <li>
        <h4> To find out the total transaction of a company </h4> <p> Use this code : <code> Total Transaction = COUNTROWS('sales transactions') </code> </p> 
